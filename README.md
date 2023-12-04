@@ -1,3 +1,55 @@
+# Nama Aplikasi
+Tempat Nugas
+
+# Deskripsi Aplikasi
+Pada proses pengerjaan tugas atau belajar, seorang mahasiswa terkadang merasa jenuh dan bosan apabila hanya mengerjakan di kos saja. 
+Selain itu, terkadang seorang mahasiswa juga merasa bingung ketika harus memilih lokasi yang tepat dan sesuai untuk menyelesaikan tugas atau belajar mereka. 
+Untuk mengatasi hal tersebut diciptakan sebuah aplikasi mobile "Tempat Nugas" yang bisa menjadi alternatif. 
+"Tempat Nugas" adalah sebuah aplikasi untuk melakukan pemetaan lokasi tempat-tempat untuk mengerjakan tugas atau belajar yang berada di UGM dan sekitarnya. 
+Aplikasi ini dapat digunakan untuk merekomendasikan tempat-tempat tertentu untuk mengerjakan tugas atau belajar dengan cara menginputkan datanya, aplikasi ini
+juga dapat memberikan informasi mengenai persebaran tempat-tempat yang telah diinput
+
+# Komponen Pembangun Aplikasi
+1. React Native
+2. HTML
+3. LeafletJS
+4. Google Sheet
+5. Apps Script
+6. FontAwesome5
+7. GitHub
+
+# Sumber Data
+1. Data lokasi tempat nugas (Google Maps).
+2. Plugin Marker Cluster, Geolocation, dan Basemap (LeafletJS).
+3. Icon (FontAwesome5).
+
+# Printscreen Komponen Penting Aplikasi
+1. Tab Home
+   ![image](https://github.com/diananggrainia/tempatnugas/assets/142765145/6f72068f-ec6a-4872-8bdb-93d8f5d3c33f)
+2. Tab Map
+   a. Titik lokasi temoat nugas dan pop-up
+      ![image](https://github.com/diananggrainia/tempatnugas/assets/142765145/d958a271-a629-43e1-b5e3-18adc70154b7)
+   b. Plugin Marker Cluster
+      ![image](https://github.com/diananggrainia/tempatnugas/assets/142765145/6bdabdb3-a165-4e03-9894-a3b045fc1019)
+   c. Plugin Layer Basemap
+      ![image](https://github.com/diananggrainia/tempatnugas/assets/142765145/68107db2-9753-41df-8726-ca2b34eae9b6)
+3. Tab Add Data
+   ![image](https://github.com/diananggrainia/tempatnugas/assets/142765145/175224e3-587a-45de-9558-bee0cd9bce54)
+4. Tab List Data
+   a. Tampilan List
+      ![image](https://github.com/diananggrainia/tempatnugas/assets/142765145/7fbca36b-0eea-4ee9-9893-09e5a4bbff44)
+   b. Fitur routing menuju tempat nugas setelah button "LOKASI" pada list data ditekan
+      ![image](https://github.com/diananggrainia/tempatnugas/assets/142765145/24d82e66-25c5-41db-9da2-963616c8a724)
+5. Tab Gallery
+   ![image](https://github.com/diananggrainia/tempatnugas/assets/142765145/24644d10-c5ef-47b4-a799-702a6f263bcd)
+6. Tab Profile
+   ![image](https://github.com/diananggrainia/tempatnugas/assets/142765145/edbdc95c-2180-4de0-b511-9cd5332e27a7)
+
+   
+
+   
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
