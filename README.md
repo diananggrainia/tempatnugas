@@ -24,25 +24,25 @@ juga dapat memberikan informasi mengenai persebaran tempat-tempat yang telah dii
 3. Icon (FontAwesome5).
 
 # Printscreen Komponen Penting Aplikasi
-1. Tab Home
+# Tab Home
    ![image](https://github.com/diananggrainia/tempatnugas/assets/142765145/6f72068f-ec6a-4872-8bdb-93d8f5d3c33f)
-2. Tab Map
-   a. Titik lokasi temoat nugas dan pop-up
+# Tab Map
+   # Titik lokasi temoat nugas dan pop-up
       ![image](https://github.com/diananggrainia/tempatnugas/assets/142765145/d958a271-a629-43e1-b5e3-18adc70154b7)
-   b. Plugin Marker Cluster
+   # Plugin Marker Cluster
       ![image](https://github.com/diananggrainia/tempatnugas/assets/142765145/6bdabdb3-a165-4e03-9894-a3b045fc1019)
-   c. Plugin Layer Basemap
+   # Plugin Layer Basemap
       ![image](https://github.com/diananggrainia/tempatnugas/assets/142765145/68107db2-9753-41df-8726-ca2b34eae9b6)
-3. Tab Add Data
+# Tab Add Data
    ![image](https://github.com/diananggrainia/tempatnugas/assets/142765145/175224e3-587a-45de-9558-bee0cd9bce54)
-4. Tab List Data
-   a. Tampilan List
+# Tab List Data
+   # Tampilan List
       ![image](https://github.com/diananggrainia/tempatnugas/assets/142765145/7fbca36b-0eea-4ee9-9893-09e5a4bbff44)
-   b. Fitur routing menuju tempat nugas setelah button "LOKASI" pada list data ditekan
+   # Fitur routing menuju tempat nugas setelah button "LOKASI" pada list data ditekan
       ![image](https://github.com/diananggrainia/tempatnugas/assets/142765145/24d82e66-25c5-41db-9da2-963616c8a724)
-5. Tab Gallery
+# Tab Gallery
    ![image](https://github.com/diananggrainia/tempatnugas/assets/142765145/24644d10-c5ef-47b4-a799-702a6f263bcd)
-6. Tab Profile
+# Tab Profile
    ![image](https://github.com/diananggrainia/tempatnugas/assets/142765145/edbdc95c-2180-4de0-b511-9cd5332e27a7)
 
    
