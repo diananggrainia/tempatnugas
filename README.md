@@ -11,7 +11,7 @@ juga dapat memberikan informasi mengenai persebaran tempat-tempat yang telah dii
 
 # Komponen Pembangun Aplikasi
 1. React Native
-2. HTML
+2. HTML dan JS
 3. LeafletJS
 4. Google Sheet
 5. Apps Script
