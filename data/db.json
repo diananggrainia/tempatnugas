@@ -1,0 +1,31 @@
+{
+  "mahasiswa": [
+    {
+      "nama": "Dian Anggraini A",
+      "nim": "21/480614/SV/19664",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "color": "#0174BE",
+      "icon": "globe-asia",
+      "id": "Z4RltUw"
+    },
+    {
+      "nama": "Dian Anggraini A",
+      "nim": "21/480614/SV/19664",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "color": "FF8080",
+      "icon": "users",
+      "id": "Q-ceenW"
+    },
+    {
+      "nama": "Dian Anggraini Astuti",
+      "nim": "21/480614/SV/19664",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "color": "D0A2F7",
+      "icon": "robot",
+      "id": "8kkYK5D"
+    }
+  ]
+}

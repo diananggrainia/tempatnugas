@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "nama": "Dian AA",
+      "nim": "21/480614/SV/19664",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "color": "#FF8080",
+      "icon": "user",
+      "id": "eOCGesL"
+    },
+    {
+      "nama": "Dian Anggraini A",
+      "nim": "21/480614/SV/19664",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "color": "#0174BE",
+      "icon": "globe-asia",
+      "id": "Z4RltUw"
+    }
+  ]
+}
